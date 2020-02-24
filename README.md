@@ -4,6 +4,8 @@
 
 Fork the repository for the problem set 4, `problem-set-4` (https://github.com/macss-ml20/problem-set-4). _Remember, all final submissions should be a single rendered PDF with code produced in-line._ Also, don't forget to **open the pull request** once you've committed your final submission to your forked repository. It needs to be merged back into the course master branch to be considered "submitted". See the syllabus for details.
 
+This final problem set is due Monday, 3/2, by 5 pm.
+
 ### The Data: State Legislative Professionalism
 
 For the *second* "applied" part of the problem set, you will perform the three main clustering techniques we addressed in class (hierarchical, k-means, and Gaussian mixture models) on the Bowen and Greene state legislative professionalism data. In these data, there are four key features of interest, which record raw values for every state legislature in the U.S. from 1974-2010: 
@@ -61,9 +63,7 @@ In short, then, by answering each of the following questions, you will be perfor
 
 9. (10 points) Discuss the validation output, e.g.,
 
-  a. What can you take away from the fit? 
- 
-  b. Which approach is optimal? And optimal at what value of k? 
- 
-  c. What are reasons you could imagine selecting a technically “sub-optimal” clustering method, regardless of the validation statistics? 
+  * What can you take away from the fit? 
+  * Which approach is optimal? And optimal at what value of k? 
+  * What are reasons you could imagine selecting a technically “sub-optimal” clustering method, regardless of the validation statistics? 
 
