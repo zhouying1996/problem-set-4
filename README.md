@@ -4,7 +4,7 @@
 
 Fork the repository for the problem set 4, `problem-set-4` (https://github.com/macss-ml20/problem-set-4). _Remember, all final submissions should be a single rendered PDF with code produced in-line._ Also, don't forget to **open the pull request** once you've committed your final submission to your forked repository. It needs to be merged back into the course master branch to be considered "submitted". See the syllabus for details.
 
-This final problem set is due Monday, 3/2, by 5 pm.
+This final problem set is **due Monday, 3/2, by 5 pm**.
 
 ### The Data: State Legislative Professionalism
 
