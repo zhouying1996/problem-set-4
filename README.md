@@ -60,8 +60,7 @@ In short, then, by answering each of the following questions, you will be perfor
 8. (5 points) Select a *single* validation strategy (e.g., compactness via min(WSS), average silhouette width, etc.), and calculate for all three algorithms. Display and compare your results for all three algorithms you fit (hierarchical, k-means, GMM). _Hint:_ Here again, we didn't cover this in R in class, but think about using the `clValid` package, though there are many other packages and ways to validate cluster patterns across iterations.
 
 9. (10 points) Discuss the validation output, e.g.,
-
-    a. What can you take away from the fit? 
-    b. Which approach is optimal? And optimal at what value of k? 
-    c. What are reasons you could imagine selecting a technically “sub-optimal” clustering method, regardless of the validation statistics? 
+ a. What can you take away from the fit? 
+ b. Which approach is optimal? And optimal at what value of k? 
+ c. What are reasons you could imagine selecting a technically “sub-optimal” clustering method, regardless of the validation statistics? 
 
