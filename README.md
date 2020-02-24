@@ -61,9 +61,9 @@ In short, then, by answering each of the following questions, you will be perfor
 
 9. (10 points) Discuss the validation output, e.g.,
 
- a. What can you take away from the fit? 
+  a. What can you take away from the fit? 
  
- b. Which approach is optimal? And optimal at what value of k? 
+  b. Which approach is optimal? And optimal at what value of k? 
  
- c. What are reasons you could imagine selecting a technically “sub-optimal” clustering method, regardless of the validation statistics? 
+  c. What are reasons you could imagine selecting a technically “sub-optimal” clustering method, regardless of the validation statistics? 
 
